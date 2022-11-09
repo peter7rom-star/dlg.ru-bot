@@ -1,0 +1,11 @@
+aiohttp
+beautifulsoup4==4.11.1
+lxml==4.8.0
+pyTelegramBotAPI
+pytz==2022.1
+requests
+rss_parser
+sqlalchemy
+sqlalchemy_utils
+timedeltafmt==0.1.1
+user_agent==0.1.10

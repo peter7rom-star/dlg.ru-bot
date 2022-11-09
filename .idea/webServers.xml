@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="195517a5-05b0-48b9-95c1-5b9ac9e51218" name="My TimeWeb Server">
+        <fileTransfer rootFolder="/root/dgl-ru-bot" accessType="SFTP" host="94.228.123.202" port="22" sshConfigId="dd489862-8208-48bf-96cc-88a1d58a277e" sshConfig="root@94.228.123.202:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="30000" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
